@@ -18,9 +18,9 @@ Além da área da tecnologia, também compartilho minha rotina, experiências, f
 
 ## 🌎 Redes Sociais
 
-[![Instagram](https://www.instagram.com/diariodeatletainiciante?igsh=MTE1dTllcDdpN3Qweg%3D%3D&utm_source=qrstyle=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-@diariodeatletainiciante-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diariodeatletainiciante?igsh=MTE1dTllcDdpN3Qweg%3D%3D&utm_source=qr)
 
-[![LinkedIn](https://www.linkedin.com/in/gabriele-reinaldo-r-mendes-50821317b?utm_source=share_via&utm_content=profile&utm_medium=member_iosstyle=for-the-badge&logo=tiktok&logoColor=white)](SEU_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriele%20Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-reinaldo-r-mendes-50821317b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
