@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👩🏻‍💻 Gabi Reinaldo
 
-<!--
-**gabriellereinaldoricardo-lang/gabriellereinaldoricardo-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Me chamo Gabriele Reinaldo e sou apaixonada por tecnologia, criatividade e comunicação. Atualmente curso Análise e Desenvolvimento de Sistemas, buscando constantemente aprender mais sobre inovação, programação e o universo digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Além da área da tecnologia, também compartilho minha rotina, experiências, fé, treinos e empreendedorismo através das redes sociais, sempre buscando inspirar pessoas de forma leve e autêntica.
+
+✨ Áreas de interesse:
+- Tecnologia
+- Desenvolvimento de Sistemas
+- Marketing digital
+- Criação de conteúdo
+- Lifestyle & fitness
+- Empreendedorismo
+
+---
+
+## 🌎 Redes Sociais
+
+[![Instagram](https://www.instagram.com/diariodeatletainiciante?igsh=MTE1dTllcDdpN3Qweg%3D%3D&utm_source=qrstyle=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK)
+
+[![LinkedIn](https://www.linkedin.com/in/gabriele-reinaldo-r-mendes-50821317b?utm_source=share_via&utm_content=profile&utm_medium=member_iosstyle=for-the-badge&logo=tiktok&logoColor=white)](SEU_LINK)
+
+---
+
+# 🚀 Atualmente
+
+- Estudando Análise e Desenvolvimento de Sistemas
+- Desenvolvendo minha marca pessoal
+- Criando conteúdos para redes sociais
+- Aprendendo mais sobre tecnologia e inovação
+- Compartilhando minha rotina e experiências
+
+---
+
+# 💡 Sobre mim
+
+💻 Apaixonada por tecnologia  
+🎥 Criadora de conteúdo lifestyle  
+💪 Focada em evolução pessoal  
+🍪 Empreendedora criativa  
+🙏 Guiada pela fé e propósito  
+
+---
+
+> “Grandes sonhos exigem coragem, constância e fé.”
