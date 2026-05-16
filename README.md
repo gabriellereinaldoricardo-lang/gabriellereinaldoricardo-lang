@@ -16,24 +16,9 @@ Minhas especialidades: Power BI,Python & SQL
 
 ---
 
-# 🚀 Atualmente
-
-- Estudando Análise e Desenvolvimento de Sistemas
-- Desenvolvendo minha marca pessoal
-- Criando conteúdos para redes sociais
-- Aprendendo mais sobre tecnologia e inovação
-- Compartilhando minha rotina e experiências
-
----
-
 # 💡 Sobre mim
 
-💻 Apaixonada por tecnologia  
-🎥 Criadora de conteúdo lifestyle  
-💪 Focada em evolução pessoal  
-🍪 Empreendedora criativa  
-🙏 Guiada pela fé e propósito  
-
+Amo Correr, a corrida virou uma das minhas maiores formas de disciplina e superação.
 ---
 
 > “Grandes sonhos exigem coragem, constância e fé.”
