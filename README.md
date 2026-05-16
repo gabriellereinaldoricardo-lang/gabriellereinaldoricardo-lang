@@ -21,4 +21,4 @@ Minhas especialidades: Power BI, Python & SQL
 Amo Correr, a corrida virou uma das minhas maiores formas de disciplina e superação.
 ---
 
-> “Grandes sonhos exigem coragem, constância e fé.”
+> “Grandes sonhos vão te exigir coragem, constância e fé.”
