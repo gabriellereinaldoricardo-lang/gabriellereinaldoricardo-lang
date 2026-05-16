@@ -2,7 +2,7 @@
 
 ### 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
-Minhas especialidades: Power BI,Python & SQL
+Minhas especialidades: Power BI, Python & SQL
 
 💻 Gosto de tecnologia, criatividade, comunicação e tudo aquilo que me faz sair da zona de conforto.
 
